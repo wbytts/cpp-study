@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29418.71
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo", "demo\demo.vcxproj", "{9E1E150A-C077-4283-922D-F0D0A97A8CE2}"
 EndProject
@@ -18,8 +18,6 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "操作Redis", "操作Redis\操作Redis.vcxproj", "{9AB1BDF5-D201-4200-8E55-3B5D768843F8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "重载与默认参数", "重载与默认参数\重载与默认参数.vcxproj", "{FA459DE3-96E7-4EE1-B0BE-F617A6CE20FB}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "立方体", "立方体\立方体.vcxproj", "{B398FED5-C09C-456C-B3D3-BA55617A974A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "基本的数据类型", "基本的数据类型\基本的数据类型.vcxproj", "{66D40EAB-2E4A-4258-8176-0825E65F1B61}"
 EndProject
@@ -99,14 +97,6 @@ Global
 		{FA459DE3-96E7-4EE1-B0BE-F617A6CE20FB}.Release|x64.Build.0 = Release|x64
 		{FA459DE3-96E7-4EE1-B0BE-F617A6CE20FB}.Release|x86.ActiveCfg = Release|Win32
 		{FA459DE3-96E7-4EE1-B0BE-F617A6CE20FB}.Release|x86.Build.0 = Release|Win32
-		{B398FED5-C09C-456C-B3D3-BA55617A974A}.Debug|x64.ActiveCfg = Debug|x64
-		{B398FED5-C09C-456C-B3D3-BA55617A974A}.Debug|x64.Build.0 = Debug|x64
-		{B398FED5-C09C-456C-B3D3-BA55617A974A}.Debug|x86.ActiveCfg = Debug|Win32
-		{B398FED5-C09C-456C-B3D3-BA55617A974A}.Debug|x86.Build.0 = Debug|Win32
-		{B398FED5-C09C-456C-B3D3-BA55617A974A}.Release|x64.ActiveCfg = Release|x64
-		{B398FED5-C09C-456C-B3D3-BA55617A974A}.Release|x64.Build.0 = Release|x64
-		{B398FED5-C09C-456C-B3D3-BA55617A974A}.Release|x86.ActiveCfg = Release|Win32
-		{B398FED5-C09C-456C-B3D3-BA55617A974A}.Release|x86.Build.0 = Release|Win32
 		{66D40EAB-2E4A-4258-8176-0825E65F1B61}.Debug|x64.ActiveCfg = Debug|x64
 		{66D40EAB-2E4A-4258-8176-0825E65F1B61}.Debug|x64.Build.0 = Debug|x64
 		{66D40EAB-2E4A-4258-8176-0825E65F1B61}.Debug|x86.ActiveCfg = Debug|Win32
